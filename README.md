@@ -42,4 +42,5 @@
     b. `mnemonic.txt` -- secret key DO NOT COMMIT THIS!!
   
   
-2. Update Path variable in config.py to point to the config.json file
+2. Update `PATH` variable in `config.py` to point to the config.json file.
+3. Run `python setup.py install`
